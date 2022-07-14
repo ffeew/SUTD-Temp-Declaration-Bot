@@ -1,3 +1,6 @@
+# SUTD Temp Declaration Bot
+This is a bot that will automatically fill up the temperature declaration form while the script is running. It will save you the hassle of visiting the temperature declaration site everyday, whilst still conforming to the school regulations.
+
 # How to use:
 Download the chrome webdriver from https://chromedriver.chromium.org/downloads. 
 
